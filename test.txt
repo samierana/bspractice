@@ -1,5 +1,7 @@
 Test File
 Changed online at github.com
+!!! 
+Parallel changes from laptop
 Again changed from my laptop
 !!!
 Spelling correction online.
